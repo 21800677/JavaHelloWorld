@@ -26,12 +26,27 @@ public class WordMan {
 	public void start() {
 		while(true) {
 			int menu = selectMenu();
-			if(menu == 0)break;
-			if(menu == 4) {
-				wordCRUD.addWord();
+			if(menu == 0) {
+				System.out.println("프로그램 종료");
+				break;
 			}
 			else if(menu == 1) {
 				wordCRUD.listALL();
+			}
+			else if(menu == 2) {
+				
+			}
+			else if(menu == 3) {
+				
+			}			
+			else if(menu == 4) {
+				wordCRUD.addWord();
+			}
+			else if(menu == 5) {
+				wordCRUD.updateItem();
+			}
+			else if(menu == 6) {
+				wordCRUD.deleteItem();
 			}
 		}
 	}
