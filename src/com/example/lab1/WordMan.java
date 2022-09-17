@@ -39,7 +39,7 @@ public class WordMan {
 			}
 			else if(menu == 3) {
 				wordCRUD.searchWord();
-			}			
+			}			 
 			else if(menu == 4) {
 				wordCRUD.addWord();
 			}
