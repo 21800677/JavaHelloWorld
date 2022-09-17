@@ -24,9 +24,10 @@ public class WordMan {
 		wordCRUD = new WordCRUD(s);
 	}
 	public void start() {
+		wordCRUD.loadFile();
 		while(true) {
 			int menu = selectMenu();
-			if(menu == 0) {
+			if(menu ==  0) {
 				System.out.println("프로그램 종료");
 				break;
 			}
@@ -34,10 +35,10 @@ public class WordMan {
 				wordCRUD.listALL();
 			}
 			else if(menu == 2) {
-				
+				wordCRUD.searchLevel();
 			}
 			else if(menu == 3) {
-				
+				wordCRUD.searchWord();
 			}			
 			else if(menu == 4) {
 				wordCRUD.addWord();
@@ -47,6 +48,8 @@ public class WordMan {
 			}
 			else if(menu == 6) {
 				wordCRUD.deleteItem();
+			}else if(menu == 7) {
+				wordCRUD.saveFile();
 			}
 		}
 	}

@@ -1,0 +1,29 @@
+2|abhor|혐오하다
+2|banquet|연회향연
+3|confide|비밀을 털어놓다,맡기다
+1|designate|지정,임명하다,가리키다
+2|hygiene|위생,청결
+2|linger|꾸물거리다,계속 남아있다
+1|perish|죽다,소멸, 붕괴되다, 썩다
+3|redundant|불필요한, 중복되는, 해고된
+2|staple|주요산물, 주성분
+3|transfusion|수혈
+2|uneven|평탄지 않은, 불규칙한, 불공정한
+3|algae|조류, 해조
+3|cardiac|심장병의
+1|loathe|질색하다
+3|dubious|수상쩍은, 의심하는
+1|forgo|~없이 지내다
+1|intercept|가로채다, 가로막다
+1|muffle|소리를 줄이다, 감싸다
+3|mural|벽화
+3|preclude|방해하다, 불가능하게 하다
+2|stringent|엄격한, 엄중한, 자금이 부족한
+3|versatile|다재다능한, 다목적의
+3|wretched|불쌍한, 비참한
+2|clan|씨족, 일족, 당파, 일당
+1|exorbitant|너무 비싼, 과도한, 궤도를 벗어난
+3|stoic|냉정한, 극기의, 스토아 철학의
+3|recluse|은둔자
+3|refute|논박 반박하다, 부정하다
+1| hello|안녕
